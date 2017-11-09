@@ -1,0 +1,36 @@
+
+/* Class = "UITextView"; text = "Powered By Lyra"; ObjectID = "0ya-OJ-MPC"; */
+"0ya-OJ-MPC.text" = "Powered By Lyra";
+
+/* Class = "UITextField"; text = "Test      "; ObjectID = "6sg-Nl-ZN7"; */
+"6sg-Nl-ZN7.text" = "Test      ";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "8oh-tj-Sgs"; */
+"8oh-tj-Sgs.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "FbZ-7Q-n2Z"; */
+"FbZ-7Q-n2Z.placeholder" = "Amount";
+
+/* Class = "UIButton"; normalTitle = "Pay with PayZen"; ObjectID = "KF1-WK-MQ7"; */
+"KF1-WK-MQ7.normalTitle" = "Pay with PayZen";
+
+/* Class = "UITextView"; text = "Please find details here : REASON"; ObjectID = "MjN-1c-53U"; */
+"MjN-1c-53U.text" = "Please find details here : REASON";
+
+/* Class = "UITextView"; text = "An email confirmation have been sent to EMAIL"; ObjectID = "Z9F-y6-d5g"; */
+"Z9F-y6-d5g.text" = "An email confirmation have been sent to EMAIL";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "crh-p7-QLW"; */
+"crh-p7-QLW.normalTitle" = "Back to home";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "jiC-Ge-jlL"; */
+"jiC-Ge-jlL.normalTitle" = "Back to home";
+
+/* Class = "UITextView"; text = "Payment failed"; ObjectID = "oAs-35-PWC"; */
+"oAs-35-PWC.text" = "Payment failed";
+
+/* Class = "UITextView"; text = "Payment Successul"; ObjectID = "qXD-AZ-XJv"; */
+"qXD-AZ-XJv.text" = "Payment Successul";
+
+/* Class = "UITextField"; text = "Production"; ObjectID = "yjz-Pi-kdV"; */
+"yjz-Pi-kdV.text" = "Production";
