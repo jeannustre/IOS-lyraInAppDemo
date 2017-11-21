@@ -32,7 +32,7 @@ class PaymentService {
     ///
     /// - Returns: URLRequest
     func buildRequest() -> URLRequest {
-        let myUrl: NSURL = NSURL(string: "\(PaymentService.SERVER_URL)/\(email)/\(amount)/\(mode)/\(lang)/\(type_card)")!
+        let myUrl: NSURL = NSURL(string: "\(PaymentService.SERVER_URL)/performInit/\(email)/\(amount)/\(mode)/\(lang)/\(type_card)")!
         var request = URLRequest(url:myUrl as URL)
         request.httpMethod = "GET"
         return request
